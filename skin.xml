@@ -1,0 +1,20 @@
+<skin name="Nano_6G" width="250" height="250">
+<!-- http://uahummer.deviantart.com/ -->
+ 
+<image src="nocover.svg" x="33" y="28" width="182" height="182" /> 
+<albumcover  round="15" x="32" y="28" width="183" height="183" />
+ <image src="bg.svg" x="32" y="157" width="184" height="55"/>
+<image src="shadow.svg" x="20" y="15" width="208" height="208"/>
+
+<titlename 	x="35" y="160" width="178" maxchars="50" align="center" font="Droid Sans 9" color="#ffffffFF" shadowcolor="#000000ff" />
+<artistname 	x="35" y="174" width="178" maxchars="50" align="center" font="Droid Sans Bold 11" color="#ffffffFF" shadowcolor="#000000ff" />
+ <albumname 	x="35" y="193" width="177" maxchars="50" align="center" font="Droid Sans 7" color="#ffffffFF" shadowcolor="#000000ff" />  
+
+<playercontrols >
+<prev x="26"  y="95" width="49" height="49" hover="prev.svg"/> 
+<play x="95"  y="95" width="59" height="49" hover="play.svg" pause_hover="pause.svg"/> 
+<next x="174"  y="95" width="49" height="49" hover="next.svg"/> 
+ </playercontrols>
+
+</skin>
+

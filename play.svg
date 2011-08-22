@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="279.42606"
+   height="235.86356"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel r10536"
+   sodipodi:docname="play.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter931"
+       x="-0.10852826"
+       width="1.2170565"
+       y="-0.13418357"
+       height="1.2683671"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.297094"
+         id="feGaussianBlur933" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter1054"
+       x="-0.23258639"
+       width="1.4651728"
+       y="-0.20142572"
+       height="1.4028514">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.612937"
+         id="feGaussianBlur1056" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#908e8e"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.15686275"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.1961538"
+     inkscape:cx="14.223284"
+     inkscape:cy="91.780762"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1890"
+     inkscape:window-height="1028"
+     inkscape:window-x="30"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="розмиття"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-162.56162,-218.49912)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="основа"
+     style="display:inline"
+     transform="translate(-5.0682236,3.4005264)">
+    <rect
+       style="fill:#000000;fill-opacity:0.61176471;fill-rule:evenodd;stroke:#222222;stroke-width:2.28949738;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3904"
+       width="227.71051"
+       height="184.17326"
+       x="30.928806"
+       y="22.444391"
+       rx="68.9188"
+       ry="81.032104" />
+    <rect
+       ry="81.032104"
+       rx="68.9188"
+       y="22.444391"
+       x="30.928806"
+       height="184.17326"
+       width="227.71051"
+       id="rect929"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#222222;stroke-width:2.28900003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter931)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.14588059;stroke-miterlimit:4;stroke-opacity:0.98755187000000000;stroke-dasharray:none"
+       id="path1050"
+       sodipodi:sides="3"
+       sodipodi:cx="-143.80391"
+       sodipodi:cy="20.821404"
+       sodipodi:r1="73.008141"
+       sodipodi:r2="36.50407"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -70.795769,20.821404 -109.512211,63.226904 0,-126.453809 z"
+       transform="matrix(1,0,0,0.76159007,282.49914,95.780547)"
+       inkscape:transform-center-x="-18.252035" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="пауза"
+     transform="translate(-5.0682236,3.4005264)" />
+</svg>
